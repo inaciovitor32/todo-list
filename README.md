@@ -39,3 +39,5 @@ Use NPM to install all of the required dependencies of this project.
 ```bash
     npm run build
 ```
+## License
+Simple To-Do is open source software [licensed as MIT](./LICENSE).
